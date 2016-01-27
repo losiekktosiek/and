@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bitcoins Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <color name="myColor">#F5F5F5</color>
+    <string name="zloty">to Zloty</string>
+    <string name="bitcoin">to Bitcoin</string>
+    <string name="calc">Calculate</string>
+    <string-array name="waluty">
+        <item>Zloty</item>
+        <item>Bitcoin</item>
+    </string-array>
+
+</resources>
